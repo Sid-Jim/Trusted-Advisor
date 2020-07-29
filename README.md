@@ -1,0 +1,1 @@
+El archivo principal es el trust_advisor_report.py, de ahí en las subcarpetas se encuentra todo lo que se necesita para que funcione correctamente.
